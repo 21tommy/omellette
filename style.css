@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:hsl(330, 100%, 98%);
+    padding-top: 10rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 50rem;
+    padding-left: 30rem;
+    margin-bottom: 10rem;
+}
+.gen-recipe{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 13px;
+    width: 50rem;
+}
+.Simple{
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+    font-style: normal;
+}
+
+.image{
+        background-image: url(/image-omelette.jpeg);
+        border: 1px solid;
+        height: 15rem;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin:1rem;
+    
+}
+
+.content{
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.text1{
+    margin-top: 15px;
+}
+
+.Preparation{
+    padding-left: 100px;
+    margin-top: 15px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    max-width: 40rem;
+    margin-left: 50px;
+    color:  hsl(24, 5%, 18%);
+}
+
+
+.prepare{
+    padding-top: 20px;
+    color:hsl(332, 51%, 32%) ;
+}
+
+.Total{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.prep{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Cook{
+    padding-bottom: 10px;
+}
+.Ingredient{
+    margin-top: 15px;
+    padding-left:0px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 100px;
+    max-width: 40rem;
+    margin-left: 50px;
+    color: hsl(24, 5%, 18%);
+}
+.eggs{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.salt{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.spoon{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.optional{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.pepper{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.ing{
+    color:hsl(332, 51%, 32%) ;
+    padding-inline-end: 70rem;
+    font-family: "Young Serif", serif;
+        font-weight: 400;
+    font-style: normal;
+}
+.Instruction{
+    margin-top: 15px;
+    padding-left:40px ;
+}
+.instruct{
+    color: hsl(332, 51%, 32%) ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Young Serif", serif;
+        font-weight: 400;
+    font-style: normal;
+}
+.Instruction{
+    border-radius: 100px;
+    max-width: 60rem;
+    margin-left: 20px;
+    color: hsl(24, 5%, 18%);
+    background-color:  hsl(0, 0%, 100%);
+}
+.beat{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.heat{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.omelette{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.add{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.serve{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.Enjoy{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.Nutrition{
+    margin-top: 30px;
+    padding-left: 65px;
+}
+.nu{
+    color: hsl(332, 51%, 32%) ;
+    font-family: "Young Serif", serif;
+        font-weight: 400;
+    font-style: normal;
+    
+}
+.table{
+    margin-top: 10px;
+    
+}
+.tablei{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(2,1fr) ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table-1{
+    color:  hsl(332, 51%, 32%);
+    font-size: 20px;
+}
+.tableii{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(2,1fr) ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table-2{
+   color:  hsl(332, 51%, 32%);
+   font-size: 20px;
+}
+.tableiii{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(2,1fr) ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table-3{
+    color:  hsl(332, 51%, 32%);
+    font: size 20px ;
+}
+.tableiv{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(2,1fr) ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table4{
+    color: hsl(332, 51%, 32%) ;
+    font-size: 20px;
+}
