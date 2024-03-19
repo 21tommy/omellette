@@ -24,7 +24,7 @@ body{
 }
 
 .image{
-        background-image: url(/image-omelette.jpeg);
+        background-image: url(image-omelette.jpeg);
         border: 1px solid;
         height: 15rem;
         background-position: center;
